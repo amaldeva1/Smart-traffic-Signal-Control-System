@@ -1,0 +1,2 @@
+The Smart Traffic Signal Control System is an AI-based project designed to manage traffic signals intelligently by analyzing real-time traffic density on each road. In traditional traffic systems, signals operate on fixed time intervals, which often leads to unnecessary waiting and congestion. This project overcomes that limitation by dynamically adjusting signal timings based on vehicle presence.
+In this system, a traffic video is used as the input instead of a real-world traffic junction to simulate real-time traffic conditions.
